@@ -1,10 +1,10 @@
 {
-    "bicicletas": [
+    "Casacas LIKARY": [
         {
-            "nombre": "Rockrider",
-            "modelo": "Bicicleta de montaña",
+            "nombre": "Casaca impermeable",
+            "modelo": "Normal",
             "img": "img/1-bicicleta.png",
-            "precio": 5
+            "precio": 70
         },
         {
             "nombre": "Specialized",
